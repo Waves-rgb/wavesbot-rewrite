@@ -1,0 +1,24 @@
+{
+  "name": "wavesbot-rewrite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "start": "node-tsc index.ts",
+    "dev": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Waves-rgb/wavesbot-rewrite.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Waves-rgb/wavesbot-rewrite/issues"
+  },
+  "homepage": "https://github.com/Waves-rgb/wavesbot-rewrite#readme",
+  "dependencies": {
+    "discord.js": "^12.3.1"
+  }
+}
